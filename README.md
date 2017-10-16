@@ -12,7 +12,7 @@ you can install protoc-gen-php with composer command.
 # add protocolbuffers/protoc-gen-php entry to your global composer.json ($HOME/.composer/composer.json)
 {
     "require": {
-        "protocolbuffers/protoc-gen-php": "dev-master"
+        "cstabor/protoc-gen-php": "0.1.0"
     }
 }
 
